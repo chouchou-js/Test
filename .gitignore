@@ -1,0 +1,8 @@
+# Directories #
+temp/
+
+# OS Files #
+.DS_Store
+*.log
+*.iml
+password.txt
